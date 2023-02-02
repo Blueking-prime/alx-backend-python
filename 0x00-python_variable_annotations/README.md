@@ -1,0 +1,1 @@
+A million times better than typescript
